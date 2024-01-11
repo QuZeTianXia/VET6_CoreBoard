@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=ESP_BOOT0 Pin=C25-1
+Added Pin To Net: NetName=ESP_BOOT0 Pin=K6-2
+Added Room: Name=VET6_Coreboard

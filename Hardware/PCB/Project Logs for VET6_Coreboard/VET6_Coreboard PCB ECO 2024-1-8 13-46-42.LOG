@@ -1,0 +1,4 @@
+Added Component: Designator=U?(WIFIM-SMD_ESP32-WROOM-32D)
+Added Member To Class: ClassName=VET6_Coreboard Member=Component U? ESP32-WROOM-32D
+Added Member To Class: ClassName=VET6_Coreboard Member=Component U? W25Q64FWSSIG
+Added Room: Name=VET6_Coreboard

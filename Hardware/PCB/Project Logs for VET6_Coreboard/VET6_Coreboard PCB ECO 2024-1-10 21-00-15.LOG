@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net1_5 Pin=R22-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R22-2
+Change Component Footprint: Designator=R22 Old Footprint=R 0603 New Footprint=R 0805
+Added Pin To Net: NetName=VCC_3V3 Pin=R22-1
+Added Pin To Net: NetName=Net1_5 Pin=R22-2
+Added Room: Name=VET6_Coreboard

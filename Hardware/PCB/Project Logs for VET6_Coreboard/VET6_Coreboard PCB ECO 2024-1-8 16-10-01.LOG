@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=?-1
+Removed Pin From Net: NetName=SWDIO Pin=?-2
+Removed Pin From Net: NetName=SWCLK Pin=?-3
+Removed Pin From Net: NetName=GND_D Pin=?-4
+Removed Member From Class: ClassName=VET6_Coreboard Member=?
+Added Component: Designator=*(HDR2.54-LI-4P)
+Added Component: Designator=U?(USB-SMD_TYPE-C16PIN)
+Added Pin To Net: NetName=SWDIO Pin=*-2
+Added Pin To Net: NetName=SWCLK Pin=*-3
+Added Pin To Net: NetName=GND_D Pin=*-4
+Added Pin To Net: NetName=SWDIO Pin=*-4
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=VET6_Coreboard Member=Component * SWD
+Added Member To Class: ClassName=VET6_Coreboard Member=Component U? TYPE-C16PIN母座 板上四脚三次molding
+Added Member To Class: ClassName=VET6_Coreboard Member=Component U? CH340N
+Added Member To Class: ClassName=VET6_Coreboard Member=Component U? ESP32-WROOM-32D
+Added Room: Name=VET6_Coreboard

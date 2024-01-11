@@ -1,0 +1,6 @@
+Added Component: Designator=U?(WIFIM-SMD_ESP32-WROOM-32D)
+Added Member To Class: ClassName=VET6_Coreboard Member=Component * SWD
+Added Member To Class: ClassName=VET6_Coreboard Member=Component U? TYPE-C16PIN母座 板上四脚三次molding
+Added Member To Class: ClassName=VET6_Coreboard Member=Component U? W25Q64FWSSIG
+Added Member To Class: ClassName=VET6_Coreboard Member=Component U? CH340N
+Added Room: Name=VET6_Coreboard

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=USART_SIEO Pin=U2-79
+Added Pin To Net: NetName=USART_SIEO Pin=U4-18
+Added Net: Name=USART_SIEO
+Added Pin To Net: NetName=USART_SOEI Pin=U2-78
+Added Pin To Net: NetName=USART_SOEI Pin=U4-17
+Added Net: Name=USART_SOEI
+Added Room: Name=VET6_Coreboard

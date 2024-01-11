@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Added Component: Designator=Y1(XTAL-5032)
+Added Component: Designator=Y2(XTAL-5032)
+Added Pin To Net: NetName=NetC4_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC3_1 Pin=Y1-2
+Added Pin To Net: NetName=NetC7_1 Pin=Y2-1
+Added Pin To Net: NetName=NetC6_2 Pin=Y2-2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-94
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=VET6_Coreboard Member=Component R1 10K
+Added Member To Class: ClassName=VET6_Coreboard Member=Component R2 10K
+Added Member To Class: ClassName=VET6_Coreboard Member=Component R3 10K
+Added Member To Class: ClassName=VET6_Coreboard Member=Component R4 10K
+Added Member To Class: ClassName=VET6_Coreboard Member=Component Y1 32.768KHz
+Added Member To Class: ClassName=VET6_Coreboard Member=Component Y2 8MHz

@@ -1,0 +1,5 @@
+Added Component: Designator=R?(R 0805)
+Added Pin To Net: NetName=GND_D Pin=R?-1
+Added Pin To Net: NetName=GND_A Pin=R?-2
+Added Member To Class: ClassName=VET6_Coreboard Member=Component R? 10K
+Added Room: Name=VET6_Coreboard

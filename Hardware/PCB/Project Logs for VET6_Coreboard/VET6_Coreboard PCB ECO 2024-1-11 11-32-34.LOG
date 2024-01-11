@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC_5V Pin=U8-A4
+Removed Pin From Net: NetName=VCC_5V Pin=U8-A9
+Removed Pin From Net: NetName=VCC_5V Pin=U8-B4
+Removed Pin From Net: NetName=VCC_5V Pin=U8-B9
+Change Component Comment : Designator=R27 Old Comment=10K New Comment=0R
+Added Component: Designator=D?(DO-214)
+Added Pin To Net: NetName=VCC_5V Pin=D?-2
+Added Pin To Net: NetName=VBUS Pin=D?-1
+Added Pin To Net: NetName=VBUS Pin=U8-A4
+Added Pin To Net: NetName=VBUS Pin=U8-A9
+Added Pin To Net: NetName=VBUS Pin=U8-B4
+Added Pin To Net: NetName=VBUS Pin=U8-B9
+Added Net: Name=VBUS
+Added Member To Class: ClassName=VET6_Coreboard Member=Component D? SS34
+Added Room: Name=VET6_Coreboard

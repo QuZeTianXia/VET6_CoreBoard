@@ -1,0 +1,4 @@
+Added Component: Designator=L?(L 0805)
+Added Pin To Net: NetName=VCC_3V3 Pin=L?-1
+Added Pin To Net: NetName=ANL_REF Pin=L?-2
+Added Member To Class: ClassName=VET6_Coreboard Member=Component L? 100uH
