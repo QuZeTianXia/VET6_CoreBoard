@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SWDIO Pin=*7-2
+Removed Pin From Net: NetName=SWDIO Pin=R23-1
+Removed Pin From Net: NetName=SWDIO Pin=U2-72
+Added Pin To Net: NetName=SWDIO Pin=*7-1
+Added Pin To Net: NetName=SWDIO Pin=*8-4
+Added Pin To Net: NetName=SWDIO Pin=R23-2
+Change Net Name : Old Net Name=SWDIO New Net Name=VCC_3V3
+Added Pin To Net: NetName=SWDIO Pin=*7-2
+Added Pin To Net: NetName=SWDIO Pin=R23-1
+Added Pin To Net: NetName=SWDIO Pin=U2-72
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=VET6_Coreboard Member=Component *4 ≈≈’Î1*2
+Added Room: Name=VET6_Coreboard

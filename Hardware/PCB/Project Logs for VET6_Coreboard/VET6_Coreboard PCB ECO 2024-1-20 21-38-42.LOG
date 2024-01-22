@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=USART_SOEI Pin=U4-17
+Removed Pin From Net: NetName=USART_SIEO Pin=U4-18
+Added Pin To Net: NetName=USART_SOEI Pin=U4-27
+Added Pin To Net: NetName=USART_SIEO Pin=U4-28
+Added Pin To Net: NetName=E_IO5 Pin=U4-29
+Added Net: Name=E_IO5
+Added Pin To Net: NetName=E_IO18 Pin=U4-30
+Added Net: Name=E_IO18
+Added Pin To Net: NetName=E_IO19 Pin=U4-31
+Added Net: Name=E_IO19
+Added Pin To Net: NetName=E_IO21 Pin=U4-33
+Added Net: Name=E_IO21
+Added Pin To Net: NetName=E_IO22 Pin=U4-36
+Added Net: Name=E_IO22
+Added Pin To Net: NetName=E_IO23 Pin=U4-37
+Added Net: Name=E_IO23
+Added Pin To Net: NetName=E_IO25 Pin=U4-10
+Added Net: Name=E_IO25
+Added Pin To Net: NetName=E_IO26 Pin=U4-11
+Added Net: Name=E_IO26
+Added Pin To Net: NetName=E_IO27 Pin=U4-12
+Added Net: Name=E_IO27
+Added Pin To Net: NetName=E_IO34 Pin=U4-6
+Added Net: Name=E_IO34
+Added Pin To Net: NetName=E_IO35 Pin=U4-7
+Added Net: Name=E_IO35
+Added Pin To Net: NetName=E_IO36 Pin=U4-4
+Added Net: Name=E_IO36
+Added Pin To Net: NetName=E_IO39 Pin=U4-5
+Added Net: Name=E_IO39
+Added Room: Name=VET6_Coreboard

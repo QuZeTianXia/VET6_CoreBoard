@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=VCC_5V Pin=*5-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=*5-2
+Removed Pin From Net: NetName=GND_D Pin=*5-3
+Removed Pin From Net: NetName=S_PE3 Pin=*5-4
+Removed Pin From Net: NetName=S_PE2 Pin=*5-5
+Removed Pin From Net: NetName=S_PE0 Pin=*5-6
+Removed Pin From Net: NetName=S_PE1 Pin=*5-7
+Removed Pin From Net: NetName=S_PB8 Pin=*5-8
+Removed Member From Class: ClassName=VET6_Coreboard Member=*5
+Removed Member From Class: ClassName=VET6_Coreboard Member=J?
+Change Component Designator: OldDesignator=J? NewDesignator=1
+Added Component: Designator=*(HDR2.54-LI-16P)
+Added Pin To Net: NetName=E_IO26 Pin=*3-4
+Added Pin To Net: NetName=E_IO27 Pin=*3-4
+Added Pin To Net: NetName=S_PA8 Pin=*3-4
+Added Pin To Net: NetName=S_PA11 Pin=*3-4
+Added Pin To Net: NetName=S_PA12 Pin=*3-4
+Added Pin To Net: NetName=S_PC6 Pin=*3-4
+Added Pin To Net: NetName=S_PC7 Pin=*3-4
+Added Pin To Net: NetName=S_PC8 Pin=*3-4
+Added Pin To Net: NetName=S_PC9 Pin=*3-4
+Added Pin To Net: NetName=S_PC12 Pin=*3-4
+Added Pin To Net: NetName=S_PD2 Pin=*3-4
+Added Pin To Net: NetName=VCC_5V Pin=*-1
+Added Pin To Net: NetName=VCC_3V3 Pin=*-2
+Added Pin To Net: NetName=GND_D Pin=*-3
+Added Pin To Net: NetName=S_PB5 Pin=*-4
+Added Pin To Net: NetName=S_PB6 Pin=*-4
+Added Pin To Net: NetName=S_PB9 Pin=*-4
+Added Pin To Net: NetName=S_PD3 Pin=*-4
+Added Pin To Net: NetName=S_PD4 Pin=*-4
+Added Pin To Net: NetName=S_PD5 Pin=*-4
+Added Pin To Net: NetName=S_PD6 Pin=*-4
+Added Pin To Net: NetName=S_PD7 Pin=*-4
+Added Pin To Net: NetName=S_PE3 Pin=*-4
+Added Pin To Net: NetName=S_PE2 Pin=*-5
+Added Pin To Net: NetName=S_PE0 Pin=*-6
+Added Pin To Net: NetName=S_PE1 Pin=*-7
+Added Pin To Net: NetName=S_PB8 Pin=*-8
+Added Pin To Net: NetName=S_PB10 Pin=4-4
+Added Pin To Net: NetName=S_PB11 Pin=4-4
+Added Pin To Net: NetName=S_PC5 Pin=4-4
+Added Pin To Net: NetName=S_PE10 Pin=4-4
+Added Pin To Net: NetName=S_PE11 Pin=4-4
+Added Pin To Net: NetName=S_PE12 Pin=4-4
+Added Pin To Net: NetName=S_PE13 Pin=4-4
+Added Pin To Net: NetName=S_PE14 Pin=4-4
+Added Member To Class: ClassName=VET6_Coreboard Member=Component * ≈≈’Î1*16
+Added Member To Class: ClassName=VET6_Coreboard Member=Component 1 OLED-12880
+Added Room: Name=VET6_Coreboard

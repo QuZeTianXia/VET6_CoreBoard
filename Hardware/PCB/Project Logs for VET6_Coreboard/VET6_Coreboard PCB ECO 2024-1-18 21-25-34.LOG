@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SCREEN1_SCL Pin=U2-36
+Added Pin To Net: NetName=SCREEN1_SDA Pin=U2-38
+Added Member To Class: ClassName=VET6_Coreboard Member=Component *4 ≈≈’Î1*2
+Added Room: Name=VET6_Coreboard

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=OLED_SDA Pin=U2-24
+Added Pin To Net: NetName=OLED_SCL Pin=U2-25
+Added Member To Class: ClassName=VET6_Coreboard Member=Component *4 ≈≈’Î1*2
+Added Room: Name=VET6_Coreboard

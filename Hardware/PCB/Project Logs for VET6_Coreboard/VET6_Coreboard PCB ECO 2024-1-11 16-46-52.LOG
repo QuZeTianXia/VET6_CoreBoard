@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC_3C3 Pin=C34-2
+Removed Pin From Net: NetName=VCC_3C3 Pin=U9-7
+Removed Pin From Net: NetName=VCC_3C3 Pin=U9-8
+Added Pin To Net: NetName=VCC_3V3 Pin=C34-2
+Added Pin To Net: NetName=VCC_3V3 Pin=U9-7
+Added Pin To Net: NetName=VCC_3V3 Pin=U9-8
+Added Room: Name=VET6_Coreboard

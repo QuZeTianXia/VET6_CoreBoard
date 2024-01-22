@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=*5 Old Footprint=HDR2.54-M-LI-20P New Footprint=HDR2.54-M-LI-16P
+Change Component Comment : Designator=*5 Old Comment=ÅÅÄ¸1*20 New Comment=ÅÅÄ¸1*16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R16
+Added Component: Designator=*6(HDR2.54-M-LI-16P)
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR27_1
+Added Member To Class: ClassName=VET6_Coreboard Member=Component *6 ÅÅÄ¸1*16
+Added Room: Name=VET6_Coreboard

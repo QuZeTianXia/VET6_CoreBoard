@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : E:\Tech file\VET6_CoreBoard\Hardware\PCB\VET6_Coreboard.PcbDoc
+Date     : 2024/1/22
+Time     : 21:24:47
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Track (5330mil,5559.646mil)(5330mil,6059.646mil) on Top Overlay And Pad C22-2(5304.565mil,5621.544mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Track (5330mil,5559.646mil)(5330mil,6059.646mil) on Top Overlay And Pad C23-2(5304.565mil,5781.544mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :2
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=60mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=15mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad U8-0(4140.43mil,5549.169mil) on Multi-Layer Location : [X = 4140.43mil][Y = 5549.169mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad U8-0(4140.59mil,5320.923mil) on Multi-Layer Location : [X = 4140.59mil][Y = 5320.923mil]
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=25mil) (InPoly),(All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:03

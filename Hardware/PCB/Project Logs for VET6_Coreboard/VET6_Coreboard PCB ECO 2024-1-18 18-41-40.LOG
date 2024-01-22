@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=KEY2 Pin=U2-3
+Added Pin To Net: NetName=KEY1 Pin=U2-4
+Added Pin To Net: NetName=KEY4 Pin=U2-5
+Added Member To Class: ClassName=VET6_Coreboard Member=Component *4 ≈≈’Î1*2
+Added Room: Name=VET6_Coreboard

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=S_PC5 Pin=3-4
+Removed Pin From Net: NetName=S_PC4 Pin=3-5
+Added Pin To Net: NetName=S_PC4 Pin=3-4
+Added Pin To Net: NetName=S_PC5 Pin=3-5
+Added Room: Name=VET6_Coreboard

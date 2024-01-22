@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ESP_LED1 Pin=R4-1
+Added Pin To Net: NetName=ST_LED1 Pin=R4-1
+Added Pin To Net: NetName=ST_LED1 Pin=U2-26
+Added Member To Class: ClassName=VET6_Coreboard Member=Component *4 ≈≈’Î1*2
+Added Room: Name=VET6_Coreboard
