@@ -2,6 +2,15 @@
 ![](/pic/VET6-coreboard.1.png)
 > <span style="font-size: 18px;">A coreboard project for development of new tech based on STM32F103VET6. Welcome to build more demos for that.</span>
 ## 更新日志  
+  + 2024/3/1/18:55  
+    更新一下状态，今天大部分的器件都焊上了，如图  
+    ![](/pic/实物1.jpg)     
+    初步发现的问题还是比较多*T_T*   
+    >1、将STM32的Boot0接入CH340下载电路后STM32不能从Flash启动，也就是说无法实现串口下载。   
+    2、ESP32下载的时候需要按住Boot按键。（看别的开发板应该不需要啊）    
+    3、最~~SB~~的问题，还是之前犯过的错，显示屏排母的引脚顺序又错了。难受   
+  
+    等我慢慢研究吧。
   + 2024/2/25/17:57   
     从学校带回家的件都焊上了，vet6芯片倒是能下载程序，但是引脚电平控制得不正常，分析原因可能有三个：    
     > 1、焊锡没上好，接触不良。  
